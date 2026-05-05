@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "appName": "CATATAN KERJA SATPAM",
+    "bankName": "BANK KALTIMTARA",
+    "subtitle": "Cyber Security Duty System",
+    "updatedAt": "2026-05-05T00:00:00.000Z"
+  },
+  "settings": {
+    "cycle": ["PAGI", "MALAM", "OFF", "OFF", "OFF", "OFF"],
+    "shift": {
+      "pagiStart": "07:00",
+      "pagiEnd": "19:00",
+      "malamStart": "19:00",
+      "malamEnd": "07:00"
+    },
+    "holidays": [
+      {
+        "id": "h-2026-05-05",
+        "date": "2026-05-05",
+        "name": "Libur Nasional",
+        "enabled": true
+      }
+    ]
+  },
+  "members": [
+    {
+      "id": "m-andi",
+      "nama": "Andi Pratama",
+      "jabatan": "Danru",
+      "regu": "A",
+      "phone": "",
+      "photo": "",
+      "startDate": "2026-05-05",
+      "startIndex": 0,
+      "overrides": {}
+    },
+    {
+      "id": "m-budi",
+      "nama": "Budi Santoso",
+      "jabatan": "Anggota",
+      "regu": "B",
+      "phone": "",
+      "photo": "",
+      "startDate": "2026-05-05",
+      "startIndex": 1,
+      "overrides": {}
+    },
+    {
+      "id": "m-cahyo",
+      "nama": "Cahyo Nugroho",
+      "jabatan": "Anggota",
+      "regu": "A",
+      "phone": "",
+      "photo": "",
+      "startDate": "2026-05-05",
+      "startIndex": 2,
+      "overrides": {
+        "2026-05-05": "OFF"
+      }
+    },
+    {
+      "id": "m-dimas",
+      "nama": "Dimas Setiawan",
+      "jabatan": "Anggota",
+      "regu": "C",
+      "phone": "",
+      "photo": "",
+      "startDate": "2026-05-05",
+      "startIndex": 3,
+      "overrides": {
+        "2026-05-05": "LEMBUR"
+      }
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-1",
+      "date": "2026-05-05",
+      "time": "07:45",
+      "title": "Pemeriksaan Area Lobby",
+      "body": "Pemeriksaan rutin area lobby dan pintu masuk.",
+      "memberId": "m-andi",
+      "regu": "A",
+      "type": "check"
+    },
+    {
+      "id": "n-2",
+      "date": "2026-05-05",
+      "time": "06:30",
+      "title": "Serah Terima Shift",
+      "body": "Serah terima tugas dari shift malam ke pagi berjalan lancar.",
+      "memberId": "m-budi",
+      "regu": "B",
+      "type": "handover"
+    }
+  ]
+}
