@@ -1,0 +1,18 @@
+{
+  "members": [
+    {"id":"m_andi","name":"Andi Pratama","role":"Danru","regu":"Regu A","phone":"-","photo":"","offset":0,"active":true},
+    {"id":"m_budi","name":"Budi Santoso","role":"Anggota","regu":"Regu B","phone":"-","photo":"","offset":1,"active":true},
+    {"id":"m_cahyo","name":"Cahyo Nugroho","role":"Anggota","regu":"Regu A","phone":"-","photo":"","offset":2,"active":true},
+    {"id":"m_dimas","name":"Dimas Setiawan","role":"Anggota","regu":"Regu C","phone":"-","photo":"","offset":3,"active":true},
+    {"id":"m_eko","name":"Eko Saputra","role":"Anggota","regu":"Regu B","phone":"-","photo":"","offset":4,"active":true},
+    {"id":"m_fajar","name":"Fajar Hidayat","role":"Anggota","regu":"Regu C","phone":"-","photo":"","offset":5,"active":true},
+    {"id":"m_galih","name":"Galih Ramadhan","role":"Anggota","regu":"Regu A","phone":"-","photo":"","offset":0,"active":true},
+    {"id":"m_hendra","name":"Hendra Wijaya","role":"Anggota","regu":"Regu D","phone":"-","photo":"","offset":1,"active":true}
+  ],
+  "notes": [
+    {"id":"n_lobby","time":"07:45","title":"Pemeriksaan Area Lobby","body":"Pemeriksaan rutin area lobby dan pintu masuk.","by":"Andi Pratama","regu":"Regu A","date":"2026-05-05"},
+    {"id":"n_serah","time":"06:30","title":"Serah Terima Shift","body":"Serah terima tugas dari shift malam ke pagi berjalan lancar.","by":"Budi Santoso","regu":"Regu B","date":"2026-05-05"}
+  ],
+  "overrides": [],
+  "settings": {"baseDate":"2026-05-01"}
+}
