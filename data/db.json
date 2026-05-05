@@ -3,10 +3,17 @@
     "appName": "CATATAN KERJA SATPAM",
     "bankName": "BANK KALTIMTARA",
     "subtitle": "Cyber Security Duty System",
-    "updatedAt": "2026-05-05T00:00:00.000Z"
+    "updatedAt": "2026-05-05T04:10:18.321Z"
   },
   "settings": {
-    "cycle": ["PAGI", "MALAM", "OFF", "OFF", "OFF", "OFF"],
+    "cycle": [
+      "PAGI",
+      "MALAM",
+      "OFF",
+      "OFF",
+      "OFF",
+      "OFF"
+    ],
     "shift": {
       "pagiStart": "07:00",
       "pagiEnd": "19:00",
@@ -25,11 +32,11 @@
   "members": [
     {
       "id": "m-andi",
-      "nama": "Andi Pratama",
-      "jabatan": "Danru",
+      "nama": "ANDRIK RIZKI ROHMADANI",
+      "jabatan": "ANGGOTA",
       "regu": "A",
-      "phone": "",
-      "photo": "",
+      "phone": "085159998849",
+      "photo": "https://cdn.phototourl.com/free/2026-05-05-8f17b947-e1d6-42a2-b78f-283234daa944.png",
       "startDate": "2026-05-05",
       "startIndex": 0,
       "overrides": {}
