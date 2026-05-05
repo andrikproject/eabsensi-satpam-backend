@@ -2,11 +2,11 @@
   "members": [
     {
       "id": "m_andi",
-      "name": "Andi Pratama",
-      "role": "Danru",
+      "name": "ANDRIK RIZKI ROHMADANI",
+      "role": "Anggota",
       "regu": "Regu A",
-      "phone": "-",
-      "photo": "",
+      "phone": "085159998849",
+      "photo": "https://cdn.phototourl.com/free/2026-05-05-8f17b947-e1d6-42a2-b78f-283234daa944.png",
       "offset": 0,
       "active": true
     },
@@ -38,46 +38,6 @@
       "phone": "-",
       "photo": "",
       "offset": 3,
-      "active": true
-    },
-    {
-      "id": "m_eko",
-      "name": "Eko Saputra",
-      "role": "Anggota",
-      "regu": "Regu B",
-      "phone": "-",
-      "photo": "",
-      "offset": 4,
-      "active": true
-    },
-    {
-      "id": "m_fajar",
-      "name": "Fajar Hidayat",
-      "role": "Anggota",
-      "regu": "Regu C",
-      "phone": "-",
-      "photo": "",
-      "offset": 5,
-      "active": true
-    },
-    {
-      "id": "m_galih",
-      "name": "Galih Ramadhan",
-      "role": "Anggota",
-      "regu": "Regu A",
-      "phone": "-",
-      "photo": "",
-      "offset": 0,
-      "active": true
-    },
-    {
-      "id": "m_hendra",
-      "name": "Hendra Wijaya",
-      "role": "Anggota",
-      "regu": "Regu D",
-      "phone": "-",
-      "photo": "",
-      "offset": 1,
       "active": true
     }
   ],
