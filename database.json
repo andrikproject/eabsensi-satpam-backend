@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-05T04:40:52.607Z",
+  "updatedAt": "2026-05-05T04:41:55.390Z",
   "settings": {
     "appName": "EAbsensi SATPAM BANK KALTIMTARA",
     "adminUser": "admin",
@@ -10,13 +10,13 @@
   "members": [
     {
       "id": "m1",
-      "name": "Andi Pratama",
-      "role": "Danru",
+      "name": "ANDRIK RIZKI ROHMADANI",
+      "role": "Anggota",
       "regu": "Regu A",
-      "phone": "",
+      "phone": "085159998849",
       "startOffset": 0,
       "active": true,
-      "photo": ""
+      "photo": "https://cdn.phototourl.com/free/2026-05-05-8f17b947-e1d6-42a2-b78f-283234daa944.png"
     },
     {
       "id": "m2",
@@ -45,26 +45,6 @@
       "regu": "Regu C",
       "phone": "",
       "startOffset": 5,
-      "active": true,
-      "photo": ""
-    },
-    {
-      "id": "m5",
-      "name": "Eko Saputra",
-      "role": "Anggota",
-      "regu": "Regu D",
-      "phone": "",
-      "startOffset": 3,
-      "active": true,
-      "photo": ""
-    },
-    {
-      "id": "m6",
-      "name": "Fajar Ramadhan",
-      "role": "Anggota",
-      "regu": "Regu A",
-      "phone": "",
-      "startOffset": 4,
       "active": true,
       "photo": ""
     }
