@@ -61,7 +61,16 @@
       "regu": "Regu B"
     }
   ],
-  "overrides": [],
+  "overrides": [
+    {
+      "id": "id_lvbrkui_70apn",
+      "date": "2026-05-06",
+      "memberId": "m_andi",
+      "type": "MALAM",
+      "title": "",
+      "desc": ""
+    }
+  ],
   "settings": {
     "baseDate": "2026-05-01"
   }
